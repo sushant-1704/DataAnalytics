@@ -1,6 +1,6 @@
 # 📊 Data Analytics Projects
 
-This repository contains three self-driven data analytics projects (May ’25 – Jun ’25) using SQL, Power BI, and Excel.
+This repository contains three self-driven data analytics projects using Python, SQL, Power BI, and Excel.
 
 ## 🔍 Projects
 
